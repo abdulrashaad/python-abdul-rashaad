@@ -3,7 +3,7 @@ def main():
     print(f'Nice to meet you {name}')
 
     age = int(input(f'How old are you? {name}'))
-    current_year = int(input(f'What is this year again?'))
+    current_year = int(input(f'What is this year again? {name}'))
     hometown = input('Where are you from?')
     print(f'I am from {hometown}')
     sex = input('are a male or female?')
